@@ -1,0 +1,13 @@
+{
+  "source": "art/illustration-source.png",
+  "source_sha256": "c1d79bb59ab7b9a3056b8a742e643da7a56aff26c7ea417e3cf5c16ad0464ea7",
+  "classification": "AI-generated abstract illustration, not a recording-session photograph",
+  "derived": [
+    "art/hero.jpg",
+    "art/square.jpg",
+    "film/poster.jpg",
+    "social/instagram/square.jpg",
+    "social/instagram/portrait.jpg",
+    "social/x/card.jpg"
+  ]
+}

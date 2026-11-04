@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+jn01,Cut Canopy,pack-local equal-tempered pitch collection,C,164,4/4,480,32,61440,midi/jn01-cut-canopy/jn01-cut-canopy-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jn02,Split Current,pack-local equal-tempered pitch collection,D#,164,4/4,480,32,61440,midi/jn02-split-current/jn02-split-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jn03,Fast Shadow,pack-local equal-tempered pitch collection,F#,164,4/4,480,32,61440,midi/jn03-fast-shadow/jn03-fast-shadow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+jn04,Turnaround,pack-local equal-tempered pitch collection,C#,164,4/4,480,32,61440,midi/jn04-turnaround/jn04-turnaround-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
