@@ -1,0 +1,26 @@
+{
+  "title": "Jungle Breaks-Inspired",
+  "study": "jn01",
+  "bpm": 164,
+  "source_audio": "preview/jungle-breaks-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "a514f0a00312a90d29cb563b444cee87215e205de03f7bbb94d440baebdccdaf",
+  "source_midi": "midi/jn01-cut-canopy/jn01-cut-canopy-combined.mid",
+  "source_midi_sha256": "57454fb59f6d41f73f1108203b1fd38c27a85fafdf88c48d703f7c4f49452023",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "fea67a3ce504f104472faaa02eee1bda35fd6fcd137a2c08b3d5e649f268f670",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "497afc311e41152347838c09e73e2d913024d679bbf8eb327c7f11826eb6c156",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "4a03ebcf8ffe726955bba6b8476e666f0f17127ce601c47c77bff75f80a2c236",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
