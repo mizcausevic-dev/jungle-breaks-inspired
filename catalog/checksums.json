@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 792,
-      "sha256": "d816c904b0e21c513be4373b980f012b67755ce0501d5d91d6fbb07af755ecb6"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3560,
-      "sha256": "ac0501bca31770bbf00ad8144b6a1e31d3c8ea8ec0a5b903f220fd00d14776ae"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/jungle-breaks-inspired-midi.zip",
-      "bytes": 25345,
-      "sha256": "910996b19db052a38d85855d28066f66cf8b0a8b578b50bca9d25ec62496b797"
+      "bytes": 27610,
+      "sha256": "db2132dfe36e974a4db8008fa55fd4ec6e70c784d856a2ebd6d9f7f0c2a4067c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33503,
       "sha256": "488041bcf32475db01ae7a639235c8e0363d070457e8aa8deec9b6f637ac796a"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1566097,
-      "sha256": "4a03ebcf8ffe726955bba6b8476e666f0f17127ce601c47c77bff75f80a2c236"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9297,
-      "sha256": "ea028ab58fad68f4432ecbf93f747a82a62c3694e92b634a2701bc4d626b55c7"
+      "bytes": 9487,
+      "sha256": "8f4d65dc3339688dbd6f9efe1c09f5476a2426801f6ff3328623a18dd3382bb6"
     },
     {
       "path": "midi/jn01-cut-canopy/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "2d326001c0fbcaa0765b7cfe086e51ae9d7d6f2cf66367c98488c625cf717f9f"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 792,
+      "sha256": "d816c904b0e21c513be4373b980f012b67755ce0501d5d91d6fbb07af755ecb6"
+    },
+    {
       "path": "preview/jungle-breaks-inspired-simple-synth-preview.mp3",
       "bytes": 1137311,
       "sha256": "a514f0a00312a90d29cb563b444cee87215e205de03f7bbb94d440baebdccdaf"
@@ -320,6 +315,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1133,
       "sha256": "22b757e7d79753d09f196797cc1d1a16935c0aac13ea2100bc13698ebccd8649"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3675,
+      "sha256": "b3fed851a4d75d087b29b7a2fc8a2f8bb3a4f71336f1336963cf1b8686d1ab44"
     },
     {
       "path": "social/instagram/caption.txt",
